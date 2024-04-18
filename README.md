@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dung</h1>
 <h3 align="center">I'm a passionate developer from Vietnam.</h3>
-
-- 📫 How to reach me **ledungg.contact@gmail.com**
+<p align="left">
+- 📫 How to reach me: **ledungg.contact@gmail.com**
 
 - ⚡ Fun fact **Music helps me relax and focus when working or studying.**
-<p align="right">
-<p align="left"> <img src="![giphy](https://github.com/LilDlio/LilDlio/assets/113548144/c88d5ecd-659a-4dd1-8841-7416ba1bc14e)
-" alt="lildungg" /> </p>
-
+<p align="right"> <img src="giphy.gif" alt="lildungg" />
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://fb.com/leedungg.573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leedungg.573" height="30" width="40" /></a>
