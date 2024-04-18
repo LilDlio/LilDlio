@@ -1,28 +1,38 @@
 <h1 align="center">Hi 👋, I'm Dung</h1>
-<h3 align="center">I'm a passionate developer from Vietnam.</h3>
-<p align="left">
-- 📫 How to reach me: **ledungg.contact@gmail.com**
+<h3 align="center">I'm a Passionate Developer from Vietnam</h3>
 
-- ⚡ Fun fact **Music helps me relax and focus when working or studying.**
-<p align="right"> <img src="giphy.gif" alt="lildungg" />
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img align="left" width="400" src="https://github.com/LilDlio/LilDlio/assets/113548144/dba1693e-6651-41f5-b5bc-9691548bea14" alt="lildungg" />
+    <div>
+<a href="mailto:ledungg.contact@gmail.com">📫 How to reach me: ledungg.contact@gmail.com</a>
+  <br/>
+  <span>⚡ My fact: Music helps me relax and focus while working or studying</span>
 </p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://fb.com/leedungg.573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leedungg.573" height="30" width="40" /></a>
-  <a href="https://instagram.com/lil.dungg__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lil.dungg__" height="30" width="40" /></a>
-</p>
+    </div>
+  </div>
+</div>
 
-<h3 align="center">Programming Languages::</h3>
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+  <div>
+      <h1>Connect with me:</h1>
+      <a href="https://fb.com/leedungg.573" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leedungg.573" height="30" width="40" /></a>
+      <a href="https://instagram.com/lil.dungg__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lil.dungg__" height="30" width="40" /></a>
+    </div>
+    <img align="right" width="400" src="https://github.com/LilDlio/LilDlio/assets/113548144/c5f478bb-9cd9-4059-aec5-7e1bbb56426e" alt="lildungg" />
+    
+  </div>
+</div>
+
+<h1 align="center">Languages And Tools:</h1>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<p/>
-  
-<h3 align="center">Frontend Development:</h3>
-<p align="center">
+<br/>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -31,45 +41,23 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Backend Development:</h3>
-<p align="center">
+<br/>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-</p>
-<h3 align="center">Database:</h3>
-<p align="center">
+<br/>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Devops:</h3>
-<p align="center">
+<br/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Software:</h3>
-<p align="center">
+<br/>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Framework:</h3>
-<p align="center">
+<br/>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Automation:</h3>
-<p align="center">
+<br/>
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Other:</h3>
-<p align="center">
+<br/>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
-
