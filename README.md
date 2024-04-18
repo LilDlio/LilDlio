@@ -1,31 +1,21 @@
-<h1 align="center">Hi 👋, I'm Dung</h1>
-<h3 align="center">I'm a Passionate Developer from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Dung. You can call me Dlio.</h1>
+<h3 align="center">I'm a Passionate Developer from Vietnam.</h3>
+<h3 align="center">From Saigon with love ❤️.</h3>
 
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <img align="left" width="400" src="https://github.com/LilDlio/LilDlio/assets/113548144/dba1693e-6651-41f5-b5bc-9691548bea14" alt="lildungg" />
-    <div>
-<a href="mailto:ledungg.contact@gmail.com">📫 How to reach me: ledungg.contact@gmail.com</a>
-  <br/>
-  <span>⚡ My fact: Music helps me relax and focus while working or studying</span>
+- 📫 How to reach me: ledungg.contact@gmail.com
+
+- ⚡ My fact: Music helps me relax and focus while working or studying.
+<p align="center">
+<img width="400" src="https://github.com/LilDlio/LilDlio/assets/113548144/dba1693e-6651-41f5-b5bc-9691548bea14" alt="lildungg" />
+<img width="400" src="https://github.com/LilDlio/LilDlio/assets/113548144/c5f478bb-9cd9-4059-aec5-7e1bbb56426e" alt="lildungg" />
 </p>
-    </div>
-  </div>
-</div>
+<h1 align="left">Connect with me:</h1>
+<p align="center">
+<a href="https://fb.com/leedungg.573" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leedungg.573" height="30" width="40" /></a>
+<a href="https://instagram.com/lil.dungg__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lil.dungg__" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-  <div>
-      <h1>Connect with me:</h1>
-      <a href="https://fb.com/leedungg.573" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leedungg.573" height="30" width="40" /></a>
-      <a href="https://instagram.com/lil.dungg__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lil.dungg__" height="30" width="40" /></a>
-    </div>
-    <img align="right" width="400" src="https://github.com/LilDlio/LilDlio/assets/113548144/c5f478bb-9cd9-4059-aec5-7e1bbb56426e" alt="lildungg" />
-    
-  </div>
-</div>
-
-<h1 align="center">Languages And Tools:</h1>
+<h1 align="left">Languages And Tools:</h1>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -45,6 +35,7 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <br/>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
@@ -55,9 +46,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <br/>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<br/>
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
-<br/>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
